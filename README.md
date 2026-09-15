@@ -4,13 +4,6 @@ Este repositório contém a solução para a Atividade 3 desenvolvida para a aul
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-* **PHP** (Lógica do lado do servidor)
-* **HTML5** (Estrutura do formulário)
-
----
-
 ## 📋 Descrição do Desafio
 
 O programa foi desenvolvido no arquivo `5a_desafio1.php` e executa o seguinte fluxo:
